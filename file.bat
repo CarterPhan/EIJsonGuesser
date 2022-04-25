@@ -1,0 +1,1 @@
+"C:\Users\carte\AppData\Local\Programs\Python\Python310\python.exe" json1.py %*
